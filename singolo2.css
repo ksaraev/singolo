@@ -1,0 +1,54 @@
+
+.body{
+    width: 1020px;
+    margin: auto;
+   
+       
+}
+
+
+.body__wraper{
+
+    background-color: #adff2f ;
+    height: 865px;
+    border-bottom : 6px solid rgb(243, 84, 10);
+
+}
+
+
+h1{
+    margin: auto;
+}
+
+
+
+li{
+    font-size: 12px;
+    font-family: Lato;
+    letter-spacing: normal;
+    display: inline;    
+    border-radius: 5px;
+    border: 1px solid #666d89;
+    padding:2px 7px;  
+    margin: 0px 2px;
+    
+}
+
+.foto__header{
+    display: flex;   
+    
+
+}
+
+
+.foto__header .col{
+    
+    align-content: space-around;
+   
+    
+
+}
+
+.col{
+    float: left;
+}
